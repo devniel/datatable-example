@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@devniel/carbon-components": "^7.2.1-1",
-    "@devniel/carbon-components-react": "^5.5.1-7",
+    "@devniel/carbon-components-react": "5.5.1-8-alpha.1",
     "node-sass": "^4.11.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
